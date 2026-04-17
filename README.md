@@ -61,4 +61,4 @@ This means the model was able to separate benign and malicious events very well.
 
 ## Conclusion
 
-Overall, this project shows that an ANN can be successfully applied to cyber threat detection. I chose this topic because it connects deep learning with a practical cybersecurity problem, and the final results confirm that the model can classify malicious and benign events with excellent performance.
+Overall, this project shows that an ANN can be successfully applied to cyber threat detection, connects deep learning with a practical cybersecurity problem, and the final results confirm that the model can classify malicious and benign events with excellent performance.
